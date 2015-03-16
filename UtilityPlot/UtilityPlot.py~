@@ -14,10 +14,10 @@ import datetime
 dt = datetime.datetime
 
 #filenames to be read in
-file0 = 'Filename1'         
-file1 = 'Filename2'
-file2 = 'Filename3'
-file3 = 'Filename4'
+file0 = 'TOS_OTC_BG_Nov17_Dec9'         
+file1 = 'TOS_OTC_BG_wired_Nov17_Dec9'
+file2 = 'TOS_SSG_BG_Nov17_Dec9'
+file3 = 'TOS_SSG_BG_wired_Nov21_Dec9'
 
 # Set font for ticks and titles
 font = {'family' : 'sans-serif',
